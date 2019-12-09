@@ -23,5 +23,5 @@ We scraped the movie data from https://www.the-numbers.com/ to get the following
 
 We started by first looking at the month a movie was released to see if there was any positive or negetive financial impact. 
 
-![](/Users/eric/FlatIron/section01/Projects/Movie Project/Movie_release_month.png)
+![](/Users/eric/FlatIron/section01/Projects/Movie Project/images/Movie_release_month.png)
 
