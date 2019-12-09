@@ -2,7 +2,9 @@
 
 
 ### Team Members
-Eric Landstein, Kevin Sun 
+Eric Landstein, [Kevin Sun ][1]
+
+[1]:https://github.com/16kesun
 
 ### Project Goals
 To see if there are any patterns that make a movie financially successful 
